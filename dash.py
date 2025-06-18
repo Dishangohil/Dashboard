@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Updated with your hosted app links
 apps = {
-    "Calculator": "https://calculator-qn2k.onrender.com",
+    "Calculator": "https://calculator-0hze.onrender.com",
     "Currency Converter": "https://curr-converter-ddrm.onrender.com",
     "Form": "https://registration-form-50r5.onrender.com",
     "Guessing Game": "https://guessing-game-ukyp.onrender.com",
