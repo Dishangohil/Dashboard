@@ -1,0 +1,9 @@
+
+services:
+  - type: web
+    name: flask-dashboard
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: python dash.py
+    runtime: python
